@@ -1,4 +1,7 @@
 # 🎮 Maikillo | Software Engineer & Game Dev Enthusiast
+
+![Banner](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+
 ![Profile Banner](https://img.shields.io/badge/LEVEL-99-purple?style=for-the-badge&logo=github)
 ![XP](https://img.shields.io/badge/XP-∞-blue?style=for-the-badge&logo=java)
 ![Status](https://img.shields.io/badge/STATUS-Online-green?style=for-the-badge&logo=visualstudiocode)
@@ -22,9 +25,13 @@
 ## ⚙️ Tech Arsenal / Arsenal Tecnológico / Arsenal Tecnológico
 | Frontend | Backend | Tools | (learning)
 |-----------|----------|--------|
-| 🟡 JavaScript | ☕ Java | 🧩 Git |
-| 🟠 HTML5  | 🔷 C | 🧠 VS Code |
-| 🔵 CSS3 | 🐍 Python  | ☁️ GitHub |
+![Java](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c)
+![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Tool-Git-black?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode)|
 
 ---
 
@@ -37,15 +44,14 @@
 ## 🕹️ Level Up Projects / Projetos / Proyectos
 - 🧮 [Vetor de Números em Java](https://github.com/Maikillo/vetor-numeros)
 - 🔢 [Soma de Matrizes em Java](https://github.com/Maikillo/soma-matrizes)
-- 🎲 [Mini Game em JavaScript](https://github.com/Maikillo/minigame-js)
-
+- 
 ---
 
 ## 💬 Contact / Contato / Contacto
 📧 **maikillo@gmail.com**  
 🌐 [GitHub](https://github.com/Maikillo)  
-📸 [Instagram](https://instagram.com/maikillo)  
-💼 [LinkedIn](https://linkedin.com/in/maikillo)
+📸 [Instagram](https://instagram.com/_maikillo)  
+💼 [LinkedIn]([https://linkedin.com/in/maikillo](https://www.linkedin.com/in/marcosgoncalvesmendes/)
 
 ---
 
