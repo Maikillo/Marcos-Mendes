@@ -1,6 +1,6 @@
 # 🎮 Maikillo | Software Engineer & Game Dev Enthusiast
 
-![Banner]([https://tenor.com/b16WG.gif](https://storage.ko-fi.com/cdn/useruploads/display/897d021c-3316-48bb-995b-43dba76a3296_lethalpocketdiscord.gif))
+![Banner]([https://tenor.com/b16WG.gif](https://storage.ko-fi.com/cdn/useruploads/display/897d021c-3316-48bb-995b-43dba76a3296_lethalpocketdiscord.gif)
 
 ![Profile Banner](https://img.shields.io/badge/LEVEL-99-purple?style=for-the-badge&logo=github)
 ![XP](https://img.shields.io/badge/XP-∞-blue?style=for-the-badge&logo=java)
