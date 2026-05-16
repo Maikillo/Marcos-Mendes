@@ -1,6 +1,6 @@
 # 🎮 Maikillo | Software Engineer & Game Dev Enthusiast
 
-<div class="tenor-gif-embed" data-postid="27633680" data-share-method="host" data-aspect-ratio="2.62295" data-width="100%"><a href="https://tenor.com/view/settawut-banner-gif-27633680">Settawut Banner GIF</a>from <a href="https://tenor.com/search/settawut+banner-gifs">Settawut Banner GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Banner](https://tenor.com/b16WG.gif)
 
 ![Profile Banner](https://img.shields.io/badge/LEVEL-99-purple?style=for-the-badge&logo=github)
 ![XP](https://img.shields.io/badge/XP-∞-blue?style=for-the-badge&logo=java)
