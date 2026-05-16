@@ -1,6 +1,6 @@
 # 🎮 Maikillo | Software Engineer & Game Dev Enthusiast
 
-![Banner]([https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif](https://pin.it/7dDhvMfXY))
+![Banner]([[https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif](https://pin.it/7dDhvMfXY)](https://tenor.com/pt-BR/view/settawut-banner-gif-27633680))
 
 ![Profile Banner](https://img.shields.io/badge/LEVEL-99-purple?style=for-the-badge&logo=github)
 ![XP](https://img.shields.io/badge/XP-∞-blue?style=for-the-badge&logo=java)
